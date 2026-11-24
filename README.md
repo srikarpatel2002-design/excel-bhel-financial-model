@@ -3,6 +3,7 @@
 A three-statement financial model of Bharat Heavy Electricals Limited (BHEL) for FY22-FY26, with ratio analysis and an FY27-FY29 forecast under Base, Best and Worst scenarios.
 
 *File:* BHEL_Financial_Model.xlsx
+
 *Data source:* Screener.in (BHEL standalone), in ₹ crore
 
 ## What the model includes
